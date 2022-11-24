@@ -1,5 +1,5 @@
 % Delete existing csv file to start
-filename = "C:\\Users\\thisuaser\\Desktop\\csvOutput.csv";
+filename = "C:\\Users\\thisuser\\Desktop\\csvOutput.csv";
 delete(filename);
 
 % write headers on csv file
